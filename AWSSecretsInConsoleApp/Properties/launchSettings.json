@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AWSSecretsInConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Config": "{\"Config:ConnectionDetails:Database\":\"yourdatabase1\",\"Config:ConnectionDetails:Username\":\"yourusername\",\"Config:ConnectionDetails:Password\":\"yourpassword\"}"
+      }
+    }
+  }
+}
